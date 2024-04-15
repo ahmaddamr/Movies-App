@@ -1,0 +1,14 @@
+{
+  "newsApp": "NewsApp",
+  "hello": "Hello",
+  "watch": "What to Watch?",
+  "upcoming": "Upcoming Movies",
+  "top": "Top Rated",
+  "categories": "Categories",
+  "settings": "Settings",
+  "languages": "Languages:",
+  "choose": "Choose A Language:",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

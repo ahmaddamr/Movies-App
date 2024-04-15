@@ -1,0 +1,14 @@
+{
+  "newsApp": "تطبيق الاخبار",
+  "hello": "أهلا",
+  "watch": "?ما تحب ان تشاهد",
+  "upcoming": "الأفلام القادمه",
+  "top": "الأعلي تقييما",
+  "categories": "الفئات",
+  "settings": "الاعدادات",
+  "languages": "اللغات",
+  "choose": "أختر لغه",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
